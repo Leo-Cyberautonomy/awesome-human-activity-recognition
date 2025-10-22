@@ -1,0 +1,35 @@
+name: Link Validation
+
+on:
+  schedule:
+    - cron: "0 6 * * 1" # every Monday at 06:00 UTC
+  pull_request:
+    paths:
+      - "**/*.md"
+      - ".github/workflows/link-check.yml"
+  workflow_dispatch:
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run lychee link checker
+        uses: lycheeverse/lychee-action@v1.9.0
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --accept 200,203,206,302,999
+            --max-concurrency 8
+            **/*.md
+          fail: true
+
+      - name: Upload lychee report
+        if: ${{ failure() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: lychee-report
+          path: lychee/out.md

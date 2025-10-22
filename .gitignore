@@ -1,0 +1,11 @@
+# Generated tooling artifacts
+tools/bin/
+data/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# macOS / Windows noise
+.DS_Store
+Thumbs.db
