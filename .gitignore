@@ -1,11 +1,21 @@
-# Generated tooling artifacts
-tools/bin/
-data/
-
-# Python caches
+# Python caches (from tools/)
 __pycache__/
 *.pyc
+*.pyo
 
-# macOS / Windows noise
+# OS files
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# Editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.log
+.cache/
