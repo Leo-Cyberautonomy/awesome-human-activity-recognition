@@ -1,10 +1,10 @@
 # Human Activity Recognition Datasets
 
-[![Stars](https://img.shields.io/github/stars/wh1g19/human_activaty?style=social)](https://github.com/wh1g19/human_activaty/stargazers)
-[![Forks](https://img.shields.io/github/forks/wh1g19/human_activaty?style=social)](https://github.com/wh1g19/human_activaty/network/members)
+[![Stars](https://img.shields.io/github/stars/intelli-cave/human-activity-recognition-datasets?style=social)](https://github.com/intelli-cave/human-activity-recognition-datasets/stargazers)
+[![Forks](https://img.shields.io/github/forks/intelli-cave/human-activity-recognition-datasets?style=social)](https://github.com/intelli-cave/human-activity-recognition-datasets/network/members)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License](https://img.shields.io/github/license/wh1g19/human_activaty)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/wh1g19/human_activaty)](https://github.com/wh1g19/human_activaty/commits)
+[![License](https://img.shields.io/github/license/intelli-cave/human-activity-recognition-datasets)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/intelli-cave/human-activity-recognition-datasets)](https://github.com/intelli-cave/human-activity-recognition-datasets/commits)
 
 > **人体活动识别（HAR）数据集精选目录** | Curated catalog of Human Activity Recognition (HAR), action recognition, motion capture, and pose estimation datasets.
 
@@ -93,11 +93,11 @@ Extended reading list lives in [`docs/surveys.md`](docs/surveys.md).
 If this repository helps your research or product, please cite it:
 
 ```bibtex
-@misc{har_datasets_2024,
+@misc{har_datasets_2025,
   title   = {Human Activity Recognition Datasets: A Curated Catalog},
-  author  = {HAR Datasets Contributors},
-  year    = {2024},
-  url     = {https://github.com/wh1g19/human_activaty},
+  author  = {Wenxuan Huang},
+  year    = {2025},
+  url     = {https://github.com/intelli-cave/human-activity-recognition-datasets},
   note    = {GitHub repository}
 }
 ```

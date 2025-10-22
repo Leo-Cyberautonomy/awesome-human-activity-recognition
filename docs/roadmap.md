@@ -1,6 +1,6 @@
 # Roadmap
 
-This roadmap tracks high-priority milestones to mature the Human Activity Intelligence Atlas into a best-in-class open resource. Timelines are quarter-based targets; adapt as contributors join.
+This roadmap tracks high-priority milestones to mature the Human Activity Recognition Datasets into a best-in-class open resource. Timelines are quarter-based targets; adapt as contributors join.
 
 ## Q2 2024
 - Publish 40+ dataset cards spanning all modalities with canonical references.

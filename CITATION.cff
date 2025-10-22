@@ -1,12 +1,12 @@
 cff-version: 1.2.0
-title: 'Human Activity Intelligence Atlas: A Curated Catalog of HAR and Action Recognition Datasets'
+title: 'Human Activity Recognition Datasets: A Curated Catalog'
 message: 'If you use this dataset catalog in your research, please cite it as below.'
 type: dataset
 authors:
-  - family-names: Human Activity Intelligence Contributors
-    email: wh1g19@users.noreply.github.com
-repository-code: 'https://github.com/wh1g19/human_activaty'
-url: 'https://github.com/wh1g19/human_activaty'
+  - family-names: Huang
+    given-names: Wenxuan
+repository-code: 'https://github.com/intelli-cave/human-activity-recognition-datasets'
+url: 'https://github.com/intelli-cave/human-activity-recognition-datasets'
 abstract: >-
   A curated, living catalog of 40+ human activity recognition (HAR) and action recognition datasets 
   across vision-based (RGB/depth video), wearable sensors (IMU, smartwatch), skeleton/mocap, 
@@ -31,5 +31,5 @@ keywords:
   - machine learning
 license: MIT
 version: 0.1.0
-date-released: '2024-10-22'
+date-released: '2025-10-22'
 

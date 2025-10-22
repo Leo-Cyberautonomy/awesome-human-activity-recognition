@@ -1,4 +1,4 @@
-# Human Activity Intelligence Atlas (Deutsch)
+# Human Activity Recognition Datasets (Deutsch)
 
 [中文](README.zh.md) | [English](../README.md) | **Deutsch** | [Español](README.es.md) | [français](README.fr.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Português](README.pt.md) | [Русский](README.ru.md)
 

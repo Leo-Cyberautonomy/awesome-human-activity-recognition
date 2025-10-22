@@ -1,6 +1,6 @@
 # Tooling Overview
 
-Utilities that keep the Human Activity Intelligence Atlas healthy. Scripts here are optional helpers for local validation and catalog generation.
+Utilities that keep the Human Activity Recognition Datasets healthy. Scripts here are optional helpers for local validation and catalog generation.
 
 ## Link Validation
 - `validate_links.ps1`  

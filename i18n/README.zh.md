@@ -1,4 +1,4 @@
-# 人体活动智能图谱（Human Activity Intelligence Atlas）
+# 人体活动识别数据集（Human Activity Recognition Datasets）
 
 [**中文**](README.zh.md) | [English](../README.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [français](README.fr.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Português](README.pt.md) | [Русский](README.ru.md)
 
@@ -81,12 +81,13 @@
 ### 引用
 若本仓库对你的研究或产品有所帮助，请引用：
 
-```
-@misc{human_activity_intel,
-  title  = {Human Activity Intelligence Atlas},
-  author = {Contributors},
-  year   = {2024},
-  note   = {https://github.com/your-org/human-activity-intelligence-atlas}
+```bibtex
+@misc{har_datasets_2025,
+  title   = {Human Activity Recognition Datasets: A Curated Catalog},
+  author  = {Wenxuan Huang},
+  year    = {2025},
+  url     = {https://github.com/intelli-cave/human-activity-recognition-datasets},
+  note    = {GitHub repository}
 }
 ```
 
