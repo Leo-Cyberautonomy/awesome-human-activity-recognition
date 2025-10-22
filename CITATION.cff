@@ -1,12 +1,12 @@
 cff-version: 1.2.0
-title: 'Human Activity Recognition Datasets: A Curated Catalog'
-message: 'If you use this dataset catalog in your research, please cite it as below.'
+title: 'Awesome Human Activity Recognition: A Curated List'
+message: 'If you use this resource list in your research, please cite it as below.'
 type: dataset
 authors:
   - family-names: Huang
     given-names: Wenxuan
-repository-code: 'https://github.com/intelli-cave/human-activity-recognition-datasets'
-url: 'https://github.com/intelli-cave/human-activity-recognition-datasets'
+repository-code: 'https://github.com/intelli-cave/awesome-human-activity-recognition'
+url: 'https://github.com/intelli-cave/awesome-human-activity-recognition'
 abstract: >-
   A curated, living catalog of 40+ human activity recognition (HAR) and action recognition datasets 
   across vision-based (RGB/depth video), wearable sensors (IMU, smartwatch), skeleton/mocap, 

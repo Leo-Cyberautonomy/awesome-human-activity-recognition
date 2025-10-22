@@ -1,4 +1,4 @@
-# Human Activity Recognition Datasets (한국어)
+# Awesome Human Activity Recognition (한국어)
 
 [中文](README.zh.md) | [English](../README.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [français](README.fr.md) | [日本語](README.ja.md) | **한국어** | [Português](README.pt.md) | [Русский](README.ru.md)
 

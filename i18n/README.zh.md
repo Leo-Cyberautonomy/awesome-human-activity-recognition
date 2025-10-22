@@ -1,4 +1,4 @@
-# 人体活动识别数据集（Human Activity Recognition Datasets）
+# Awesome 人体活动识别（Awesome Human Activity Recognition）
 
 [**中文**](README.zh.md) | [English](../README.md) | [Deutsch](README.de.md) | [Español](README.es.md) | [français](README.fr.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Português](README.pt.md) | [Русский](README.ru.md)
 
@@ -82,11 +82,11 @@
 若本仓库对你的研究或产品有所帮助，请引用：
 
 ```bibtex
-@misc{har_datasets_2025,
-  title   = {Human Activity Recognition Datasets: A Curated Catalog},
+@misc{awesome_har_2025,
+  title   = {Awesome Human Activity Recognition: A Curated List},
   author  = {Wenxuan Huang},
   year    = {2025},
-  url     = {https://github.com/intelli-cave/human-activity-recognition-datasets},
+  url     = {https://github.com/intelli-cave/awesome-human-activity-recognition},
   note    = {GitHub repository}
 }
 ```

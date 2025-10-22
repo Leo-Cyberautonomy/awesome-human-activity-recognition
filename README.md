@@ -1,12 +1,12 @@
-# Human Activity Recognition Datasets
+# Awesome Human Activity Recognition
 
-[![Stars](https://img.shields.io/github/stars/intelli-cave/human-activity-recognition-datasets?style=social)](https://github.com/intelli-cave/human-activity-recognition-datasets/stargazers)
-[![Forks](https://img.shields.io/github/forks/intelli-cave/human-activity-recognition-datasets?style=social)](https://github.com/intelli-cave/human-activity-recognition-datasets/network/members)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License](https://img.shields.io/github/license/intelli-cave/human-activity-recognition-datasets)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/intelli-cave/human-activity-recognition-datasets)](https://github.com/intelli-cave/human-activity-recognition-datasets/commits)
+[![Stars](https://img.shields.io/github/stars/intelli-cave/awesome-human-activity-recognition?style=social)](https://github.com/intelli-cave/awesome-human-activity-recognition/stargazers)
+[![Forks](https://img.shields.io/github/forks/intelli-cave/awesome-human-activity-recognition?style=social)](https://github.com/intelli-cave/awesome-human-activity-recognition/network/members)
+[![License](https://img.shields.io/github/license/intelli-cave/awesome-human-activity-recognition)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/intelli-cave/awesome-human-activity-recognition)](https://github.com/intelli-cave/awesome-human-activity-recognition/commits)
 
-> **人体活动识别（HAR）数据集精选目录** | Curated catalog of Human Activity Recognition (HAR), action recognition, motion capture, and pose estimation datasets.
+> **人体活动识别（HAR）精选资源列表** | A curated list of Human Activity Recognition (HAR), action recognition, motion capture, and pose estimation datasets.
 
 **[中文](i18n/README.zh.md)** | [English](README.md) | [Deutsch](i18n/README.de.md) | [Español](i18n/README.es.md) | [Français](i18n/README.fr.md) | [日本語](i18n/README.ja.md) | [한국어](i18n/README.ko.md) | [Português](i18n/README.pt.md) | [Русский](i18n/README.ru.md)
 
@@ -93,11 +93,11 @@ Extended reading list lives in [`docs/surveys.md`](docs/surveys.md).
 If this repository helps your research or product, please cite it:
 
 ```bibtex
-@misc{har_datasets_2025,
-  title   = {Human Activity Recognition Datasets: A Curated Catalog},
+@misc{awesome_har_2025,
+  title   = {Awesome Human Activity Recognition: A Curated List},
   author  = {Wenxuan Huang},
   year    = {2025},
-  url     = {https://github.com/intelli-cave/human-activity-recognition-datasets},
+  url     = {https://github.com/intelli-cave/awesome-human-activity-recognition},
   note    = {GitHub repository}
 }
 ```
